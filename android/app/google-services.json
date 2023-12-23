@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "244108033537",
+    "firebase_url": "https://elderly-people-8d142-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elderly-people-8d142",
+    "storage_bucket": "elderly-people-8d142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244108033537:android:9f5eb76eae9e68b274ca00",
+        "android_client_info": {
+          "package_name": "com.example.bikashquestion2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySPdLaCp-MJAiosIwl6S2a4FGJGaNfTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244108033537-1pcp2c9au5mvmbmn98g5otdm8vkvqdo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekderlyPeopleFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244108033537:android:b5f39a4202222ebf74ca00",
+        "android_client_info": {
+          "package_name": "com.example.dissertationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySPdLaCp-MJAiosIwl6S2a4FGJGaNfTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244108033537-1pcp2c9au5mvmbmn98g5otdm8vkvqdo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekderlyPeopleFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244108033537:android:0ae45c43e959268374ca00",
+        "android_client_info": {
+          "package_name": "com.example.ekderly_people_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySPdLaCp-MJAiosIwl6S2a4FGJGaNfTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244108033537-1pcp2c9au5mvmbmn98g5otdm8vkvqdo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekderlyPeopleFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244108033537:android:092e5f1f45ae6ffa74ca00",
+        "android_client_info": {
+          "package_name": "com.example.elderly_people"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySPdLaCp-MJAiosIwl6S2a4FGJGaNfTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244108033537-4i21k1feadrj3vd3eldp3th22jkr8jab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244108033537-1pcp2c9au5mvmbmn98g5otdm8vkvqdo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekderlyPeopleFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
